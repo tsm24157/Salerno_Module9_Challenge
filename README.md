@@ -12,7 +12,7 @@
   A project I have to complete to pass the course
 
   ## Installation command:
-  undefined
+  install dep
 
   ## Repo information:
   they are free to use the code as it is open source
